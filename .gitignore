@@ -1,11 +1,6 @@
 .gradle
 
-
-### DSF ###
-**/src/site/resources/api-doc/api-doc.html
-
-build
-dsfbuild
+ 
 
 ### Eclipse ###
 
